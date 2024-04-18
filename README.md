@@ -47,10 +47,10 @@ This project serves as a basic template for building web applications that requi
 
 ## Usage
 
-To add a new item, press the symbol "+" 
-The items or tasks will be added to the list present at the center of the view.
-To update an item, click on the "pencil" icon to edit.
-To delete an item, check the box on left to make it complete or delete the existing item.
+-- To add a new item, press the symbol "+" 
+-- The items or tasks will be added to the list present at the center of the view.
+-- To update an item, click on the "pencil" icon to edit.
+-- To delete an item, check the box on left to make it complete or delete the existing item.
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any problems or have suggestions for improvement.
