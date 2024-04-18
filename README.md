@@ -37,7 +37,8 @@ This project serves as a basic template for building web applications that requi
    npm install
 4. Set up the PostgreSQL database:
    
-   - Create a PostgreSQL database.
+   - Create a PostgreSQL database named permalist and create a table named items.
+   - Run the queries from `queries.sql`
    - Update the database connection in index.js
 5. Run the application:
 
