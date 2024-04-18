@@ -1,4 +1,4 @@
-# Project Title
+# TO DO LIST
 
 A simple CRUD (Create, Read, Update, Delete) operations project using PostgreSQL for the database, Express.js for the backend, and EJS for the frontend.
 
@@ -9,7 +9,6 @@ A simple CRUD (Create, Read, Update, Delete) operations project using PostgreSQL
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
