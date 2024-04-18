@@ -1,10 +1,5 @@
 # TO DO LIST
 
-# Built With
-: ExpressJS
-: EJS
-: Postgresql
-
 A simple CRUD (Create, Read, Update, Delete) operations project using PostgreSQL for the database, Express.js for the backend, and EJS for the frontend.
 
 ## Table of Contents
