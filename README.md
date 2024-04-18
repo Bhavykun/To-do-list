@@ -1,5 +1,10 @@
 # TO DO LIST
 
+# Built With
+: Web framework for Node.js
+: Templating engine for generating HTML
+: Relational database management system
+
 A simple CRUD (Create, Read, Update, Delete) operations project using PostgreSQL for the database, Express.js for the backend, and EJS for the frontend.
 
 ## Table of Contents
