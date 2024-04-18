@@ -38,8 +38,8 @@ This project serves as a basic template for building web applications that requi
    npm install
 4. Set up the PostgreSQL database:
    
-   Create a PostgreSQL database.
-   Update the database connection in index.js
+   - Create a PostgreSQL database.
+   - Update the database connection in index.js
 5. Run the application:
 
    ```bash
